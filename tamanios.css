@@ -1,0 +1,15 @@
+/* Estilos para pantallas grandes (desktops) */
+@media only screen and (min-width: 768px) {
+    /* Agrega estilos específicos para pantallas grandes aquí */
+  }
+  
+  /* Estilos para pantallas medianas (tablets) */
+  @media only screen and (max-width: 767px) {
+    /* Agrega estilos específicos para tablets aquí */
+  }
+  
+  /* Estilos para pantallas pequeñas (teléfonos) */
+  @media only screen and (max-width: 480px) {
+    /* Agrega estilos específicos para teléfonos aquí */
+  }
+  
